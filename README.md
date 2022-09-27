@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Fayez</h1>
-<h3 align="center">A passionate expert on cybersecurity from france</h3>
+<h3 align="center">A passionate expert on cybersecurity from France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
