@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fayez Mabrouk
+# Fayez MABROUK
 
 ### Cybersecurity Engineer · Cloud Security · DevSecOps
 
